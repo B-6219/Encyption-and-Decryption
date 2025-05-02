@@ -1,5 +1,11 @@
+# Encryption Decryption Program v.2.0
+
+[![Version](https://img.shields.io/github/v/release/B-6219/Encyption-and-Decryption?label=Latest%20Release)](https://github.com/B-6219/Encyption-and-Decryption/releases)
+
+This program provides encryption and decryption tools using a simple Caesar cipher.
 
 ---
+
 
 🔐 Encryption-Decryption Program
 
@@ -54,4 +60,8 @@ Gui with TKinter
 - Support for file encryption
 - Advanced encryption methods (AES, RSA)
 
-🤝 Contributing
+
+  We added A new Release
+
+  Check out the [version 2.0 release here](https://github.com/B-6219/Encyption-and-Decryption/releases/tag/version.2.0).
+
